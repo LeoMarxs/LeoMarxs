@@ -33,6 +33,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leo.marxs/?next=%2F)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-7204a8224/)
+[![Perfil DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/leonardomarquesj2004)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leony_zin&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=leony_zin&redirect=true)
 
