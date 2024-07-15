@@ -4,11 +4,7 @@
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
     
-<div align="center">
-  <a href="https://1999azzar.github.io/1999AZZAR/">
-    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake">
-  </a>
-</div>
+
 
 <img align="right" height="150" src= "https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" />
 
@@ -35,8 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-henrique-7204a8224/)
 [![Perfil DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/leonardomarquesj2004)
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=leony_zin&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=leony_zin&redirect=true)
-
+<br>
 
 <!-- GIF -->
 <p align="left">
