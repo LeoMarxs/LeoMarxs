@@ -60,8 +60,19 @@
   <div style="flex-basis: 48%;">
     <h3>Tools & Frameworks</h3>
     <img align="center" alt="VScode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-   
   </div>
+
+  <div align="center" >
+  <br>
+  <p align="centre">
+    <b>Visitors Count</b>
+  </p>  
+  <p align="center">
+    <img align="center" src="https://profile-counter.glitch.me/{LeoMarxs}/count.svg" style=textColor=A93ADB"/>
+  </p> 
+  <br>
+</div>
+  
 
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A93ADB&height=120&section=footer"/>
   
