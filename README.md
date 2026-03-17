@@ -13,7 +13,7 @@
                                    ╔═══════════════════════════════════════════════════════════╗
                                    ║                                                           ║
                                    ║   USER    :: Leonardo Henrique                            ║
-                                   ║   STATUS  :: Student @ ADS                                ║
+                                   ║   STATUS  :: Graduate @ ADS                               ║
                                    ║   MISSION :: Looking for first job opportunity            ║
                                    ║   HOBBIES :: Books / Manga / Comics / Games / Movies      ║
                                    ║   BELIEF  :: Personal interests refine problem-solving    ║
@@ -28,7 +28,7 @@ $ whoami
 > leonardo_marques
 
 $ cat about.txt
-> Studying Systems Analysis & Development
+> Graduate in Systems Analysis & Development
 > Seeking first opportunity in tech
 > Enthusiast: books, manga, comics, movies & games
 > Interests = better perception = better solutions
