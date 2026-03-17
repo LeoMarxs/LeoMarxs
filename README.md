@@ -77,11 +77,14 @@ $ ls skills/
 
 <div align="left">
 
-<img alt="C#" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title="C#"/>
-<img alt="C" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C"/>
-<img alt="HTML5" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5"/>
-<img alt="CSS3" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3"/>
-<img alt="Python" height="40" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+[![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=00ff41)](https://learn.microsoft.com/dotnet/csharp/)
+[![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00ff41)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00ff41)](https://www.java.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00ff41)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff41)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00ff41)](https://en.wikipedia.org/wiki/SQL)
+[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff41)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff41)](https://developer.mozilla.org/docs/Web/CSS)
 
 </div>
 
@@ -89,7 +92,11 @@ $ ls skills/
 
 <div align="left">
 
-<img alt="VS Code" height="40" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code"/>
+[![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00ff41)](https://code.visualstudio.com/)
+[![Visual Studio](https://img.shields.io/badge/Visual%20Studio-000000?style=for-the-badge&logo=visualstudio&logoColor=00ff41)](https://visualstudio.microsoft.com/)
+[![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=00ff41)](https://www.jetbrains.com/pycharm/)
+[![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-000000?style=for-the-badge&logo=cplusplus&logoColor=00ff41)](http://www.codeblocks.org/)
+[![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-000000?style=for-the-badge&logo=arduino&logoColor=00ff41)](https://www.arduino.cc/en/software)
 
 </div>
 
