@@ -25,7 +25,7 @@
 
 ```bash
 $ whoami
-> leonardo_henrique
+> leonardo_marques
 
 $ cat about.txt
 > Studying Systems Analysis & Development
@@ -35,7 +35,7 @@ $ cat about.txt
 > Always compiling new knowledge...
 
 $ ls skills/
-> C  C#  HTML5  CSS3  Python  VSCode
+> C  C#  Java  HTML5  CSS3  Python  JavaScript  VSCode
 ```
 
 <br clear="right"/>
@@ -63,9 +63,9 @@ $ ls skills/
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/instagram-%2300ff41.svg?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/leo.marxs/?next=%2F)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%2300ff41.svg?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/leonardo-henrique-7204a8224/)
-[![DIO](https://img.shields.io/badge/DIO_profile-%2300ff41.svg?style=for-the-badge&logoColor=black)](https://www.dio.me/users/leonardomarquesj2004)
+[![Instagram](https://img.shields.io/badge/instagram-000000?style=for-the-badge&logo=instagram&logoColor=00ff41)](https://www.instagram.com/leo.marxs/?next=%2F)
+[![LinkedIn](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/leonardo-henrique-7204a8224/)
+[![DIO](https://img.shields.io/badge/DIO_profile-000000?style=for-the-badge&logoColor=00ff41&labelColor=000000)](https://www.dio.me/users/leonardomarquesj2004)
 
 </div>
 
