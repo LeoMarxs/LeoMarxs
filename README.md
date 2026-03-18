@@ -107,7 +107,7 @@ $ ls skills/
 <div align="center">
 
 <img height="165em" src="https://github-readme-stats.vercel.app/api?username=LeoMarxs&theme=transparent&bg_color=000000&border_color=00ff41&show_icons=true&icon_color=00ff41&title_color=00ff41&text_color=00cc33"/>
-<img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LeoMarxs&layout=compact&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33"/>
+
 
 </div>
 
