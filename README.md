@@ -35,7 +35,7 @@ $ cat about.txt
 > Always compiling new knowledge...
 
 $ ls skills/
-> C  C#  Java  HTML5  CSS3  Python  JavaScript  VSCode git github
+> C  C#  Java  HTML5  CSS3  Python  JavaScript  VSCode Git GitHub
 ```
 
 <br clear="right"/>
