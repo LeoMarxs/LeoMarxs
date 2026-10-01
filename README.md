@@ -55,6 +55,9 @@ $ ls skills/
 [![DocRender](https://github-readme-stats.vercel.app/api/pin/?username=LeoMarxs&repo=DocRender&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/LeoMarxs/DocRender)
 [![Urban-Farm-management-system](https://github-readme-stats.vercel.app/api/pin/?username=LeoMarxs&repo=Urban-Farm-management-system&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/LeoMarxs/Urban-Farm-management-system)
 
+[![ImageOptimizer](https://github-readme-stats.vercel.app/api/pin/?username=LeoMarxs&repo=ImageOptimizer&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/LeoMarxs/ImageOptimizer)
+[![DBurguer-website](https://github-readme-stats.vercel.app/api/pin/?username=LeoMarxs&repo=DBurguer-website&bg_color=000000&border_color=00ff41&title_color=00ff41&text_color=00cc33&icon_color=00ff41)](https://github.com/LeoMarxs/DBurguer-website)
+
 </div>
 
 ---
